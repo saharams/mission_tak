@@ -1,3 +1,6 @@
+최초 실행시 jpa.hiberante.ddl-auto: create 의 설정으로 실행되어야 합니다
+
+
 1.게시판 기능
 
 같은 주제를 boardsid를 키값으로 category를 설정하고
